@@ -8,7 +8,7 @@ window.WEDDING_CONFIG = {
 
   // Khách mặc định. Có thể cá nhân hóa bằng URL:
   // index.html?guest=Anh%20Thiện%20%2B
-  defaultGuest: "Anh Thiện +",
+  defaultGuest: "Bảo Anh +",
 
   ceremony: {
     title: "Lễ Tân Hôn",
