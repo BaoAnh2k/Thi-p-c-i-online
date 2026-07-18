@@ -39,9 +39,9 @@ window.WEDDING_CONFIG = {
   banks: [
     {
       label: "Nhà trai",
-      bank: "Bổ sung sau",
+      bank: "MB bank",
       accountName: "ĐOÀN XUÂN TRƯỜNG",
-      accountNumber: "Bổ sung sau"
+      accountNumber: "1828250819"
     },
     {
       label: "Nhà gái",
