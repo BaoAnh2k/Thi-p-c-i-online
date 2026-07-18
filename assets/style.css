@@ -96,7 +96,7 @@ h2{
 .hero{min-height:100svh;display:grid;place-items:center;padding:0;overflow:hidden;color:#fff;text-align:center}
 .hero-bg{
   position:absolute;inset:0;
-  background-image:url("images/Ảnh T1.png");
+  background-image:url("images/Ảnh 1.jpg");
   background-position:center;background-size:cover;
   transform:scale(1.04);
 }
